@@ -17,6 +17,7 @@ export default function FriendForm(props) {
     // c) use the `submit` callback coming in through props
   }
 
+  
   return (
     <form className='form container' onSubmit={onSubmit}>
       <div className='form-group inputs'>
